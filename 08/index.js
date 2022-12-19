@@ -1,0 +1,2 @@
+const raio = 2, area = Math.PI * Math.pow(raio,2), circunferencia = 2 * Math.PI * raio;
+console.log(`Dado o raio de ${raio} metros, temos uma circunferênciad de ${circunferencia.toFixed(2)}m e uma area de ${area.toFixed(2)}m²`)
